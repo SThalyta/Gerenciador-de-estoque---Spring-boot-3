@@ -59,3 +59,11 @@
 
 - Verifique se a aplicação está rodando na porta correta (padrão é `8080`). Caso queira mudar, ajuste o `server.port` no `application.properties`.
 - Para automatizar a criação de tabelas, certifique-se de que a configuração `spring.jpa.hibernate.ddl-auto` esteja definida como `update`, para que o Hibernate crie as tabelas automaticamente com base nas entidades do projeto.
+
+## Documentação da API
+
+A documentação completa da API, com exemplos de requisições e respostas, está disponível no Postman. Acesse pelo link abaixo:
+
+[Documentação da API no Postman](https://link-da-documentacao-postman.com](https://documenter.getpostman.com/view/38231784/2sAY51A1Y8))
+
+Você pode visualizar e testar os endpoints diretamente no Postman, facilitando o entendimento e a integração com a API.
